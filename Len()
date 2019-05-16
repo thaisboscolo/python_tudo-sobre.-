@@ -1,0 +1,16 @@
+#Exemplo de Código utilizando Len():
+
+numeros_impares = [1,3,5,7,9,11,13,15,17,19]
+print(len(x))
+
+>> Resultado será 10 - ou seja, 10 elementos dentro do conjunto.
+
+#A Função len() diz a quantidade de elementos dentro do conjunto []
+# len() também pode ser utilizado para contar letras.
+
+frase = ('Quanto mais eu treino, mais sorte eu tenho!')
+print(len(x))
+
+>> Resultado será 42 - ou seja, na frase tem 42 caracteres contando com os espaços.
+
+=D Aprendizado em 15.05.2019
